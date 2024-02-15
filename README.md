@@ -1,4 +1,4 @@
-# Análise Exploratória de Imóveis
+# Análise Exploratória de Imóveis 🔎🏡
 
 Este projeto consiste em uma análise exploratória de dados de imóveis, utilizando duas bases de dados obtidas no Kaggle, uma plataforma online de compartilhamento de conjuntos de dados e competições de ciência de dados.
 
@@ -30,6 +30,6 @@ Durante a análise exploratória, foram realizadas as seguintes etapas:
 
 5. **Visualização dos Maiores Aluguéis:** Gráficos foram plotados para visualizar os maiores valores de aluguel por tipo de imóvel, fornecendo insights sobre as tendências de preços no mercado imobiliário.
 
-![Analise exploratoria](image.png)
+![Analise exploratoria](output.png)
 
 Essa análise exploratória fornece uma compreensão inicial dos dados de aluguel de imóveis e pode servir como ponto de partida para análises mais avançadas e tomada de decisões informadas no mercado imobiliário.
